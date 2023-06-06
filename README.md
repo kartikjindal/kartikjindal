@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kartikjindal
-- 👀 I’m interested in DSA stuffs
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in DSA stuffs and currently working on web development
 - 📫 How to reach me https://www.linkedin.com/in/kartik--jindal/
 
 <!---
